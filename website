@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <div>
+        <img src="images/img7.jpg" 
+      </div>
+  <head>
+    <title>Welcome in my webiste</title>
+  </head>
+  <body>
+  </body>
+  <div>
+      <h1>Me...</h1>
+      <body>my name is Alicia I am 20 years old. 
+        Motivated to discover new horizons I went to South Africa for 3 months. 
+        I have many memories of it, on my first website 
+        I want to share my memories with you.</body>
+    </div>
+    <h2>Why Cape town?</h2>
+    <body>I didn't know South Africa, and I wanted 
+      to discover a new culture, environment. 
+      Cape Town was an evidence for the diversity of landscapes, 
+      activity, inhabitants. During this trip I keep 3 main memories:</body>
+<h3>Safari vibes</h3>
+      <img src="images/img11.JPG" >
+      <h3>Helicopter</h3>
+    <img src="images/img8.jpg" >
+    <h3>Horse</h3>
+      <img src="images/img9.jpg" >
+    <div>
+      <h2>Why I advise you to go to South Africa: </h2>
+    <ul>
+        <li>Very beautiful landscapes you can do a lot of hiking 
+          </li>
+        <li>The inhabitants are very friendly and welcoming </li>
+        <li>The city is very beautiful, clean, very beautiful restaurant and hotels.</li>
+      </ul>
+    <div>
+        <a href="https://www.youtube.com/watch?v=a66LSbwbLKs">
+          <img src="images/img13.jpg">
+
+          <img src="images/img14.jpg">
+          <br>
+          Watch the video
+        </a>
+      </div>
+      <div>
+          <p>
+            <strong>
+               "I lost my heart in Cape town  <br> 
+            </strong>
+          </p>
+        </div>
+    <div>
+        <h1>My three favorite addresses </h1>
+        <p>
+          In South Africa you will find very nice restaurant with a beautiful 
+          gastronomy and an excellent wine indeed South Africa is a wine producer. 
+          Here I show you my three favorite addresses.
+          <h2>Kloof Street House</h2>
+<img src="images/img15.jpg" >
+          <a href="http://www.kloofstreethouse.co.za">more information</a>
+        </p>
+      </div>
+    <p>
+      <h2>Café caprice</h2>
+        <img src="images/img16.jpg"> 
+        <a href="https://cafecaprice.co.za">more information</a>
+        </p>
+        <h2>Tiger milk</h2>
+        <img src="images/img17.jpg">
+        <a href="https://tigersmilk.co.za">more information</a>
+            </div>
+</html>
